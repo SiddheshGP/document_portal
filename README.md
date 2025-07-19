@@ -48,5 +48,5 @@ git push
 ### for cloning my repo use this command
 
 ```
-git clone https://github.com/sunnysavita10/document_portal.git
+git clone https://github.com/SiddheshGP/document_portal.git
 ```

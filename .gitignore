@@ -1,2 +1,9 @@
 denv
 .env
+document_portl.egg-info
+logs
+logs1
+venv/
+__pycache__/
+logs/
+*.pyc

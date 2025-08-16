@@ -38,9 +38,22 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# serve static & templates
-app.mount("/static", StaticFiles(directory="../static"), name="static")
-templates = Jinja2Templates(directory="../templates")
+# # serve static & templates
+# app.mount("/static", StaticFiles(directory="../static"), name="static")
+# templates = Jinja2Templates(directory="../templates")
+
+from pathlib import Path
+from fastapi.staticfiles import StaticFiles
+# Get the project root (one level above current file)
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+# Mount static directory
+app.mount(
+    "/static",
+    StaticFiles(directory=BASE_DIR / "static"),
+    name="static"
+)
+templates = Jinja2Templates(directory=BASE_DIR / "templates")
 
 @app.get("/",response_class=HTMLResponse)
 async def serve_ui(request: Request):

@@ -1,0 +1,716 @@
+{
+    "type": "float-area",
+    "_widgets": [
+        [
+            {
+                "widget": {
+                    "constructionOptions": {
+                        "factoryId": "code-editor-opener",
+                        "options": {
+                            "kind": "navigatable",
+                            "uri": "test.py",
+                            "floatAreaId": "d9c0ba68-e176-4a58-a913-211877a62b20"
+                        }
+                    },
+                    "innerWidgetState": {
+                        "cursorState": [
+                            {
+                                "inSelectionMode": false,
+                                "selectionStart": {
+                                    "lineNumber": 131,
+                                    "column": 24
+                                },
+                                "position": {
+                                    "lineNumber": 131,
+                                    "column": 24
+                                }
+                            }
+                        ],
+                        "viewState": {
+                            "scrollLeft": 0,
+                            "firstPosition": {
+                                "lineNumber": 120,
+                                "column": 1
+                            },
+                            "firstPositionDeltaTop": -8
+                        },
+                        "contributionsState": {
+                            "editor.contrib.folding": {
+                                "lineCount": 207,
+                                "provider": "syntax",
+                                "foldedImports": false
+                            },
+                            "editor.contrib.wordHighlighter": false
+                        }
+                    }
+                },
+                "width": 832.0245942717954,
+                "height": 450,
+                "spacing": 0
+            },
+            {
+                "widget": {
+                    "constructionOptions": {
+                        "factoryId": "code-editor-opener",
+                        "options": {
+                            "kind": "navigatable",
+                            "uri": "archive\\src\\single_document_chat\\data_ingestion.py",
+                            "floatAreaId": "d9c0ba68-e176-4a58-a913-211877a62b20"
+                        }
+                    },
+                    "innerWidgetState": {
+                        "cursorState": [
+                            {
+                                "inSelectionMode": true,
+                                "selectionStart": {
+                                    "lineNumber": 40,
+                                    "column": 39
+                                },
+                                "position": {
+                                    "lineNumber": 31,
+                                    "column": 1
+                                }
+                            }
+                        ],
+                        "viewState": {
+                            "scrollLeft": 0,
+                            "firstPosition": {
+                                "lineNumber": 64,
+                                "column": 1
+                            },
+                            "firstPositionDeltaTop": 0
+                        },
+                        "contributionsState": {
+                            "editor.contrib.folding": {
+                                "collapsedRegions": [
+                                    {
+                                        "startLineNumber": 14,
+                                        "endLineNumber": 25,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": -823420
+                                    },
+                                    {
+                                        "startLineNumber": 15,
+                                        "endLineNumber": 22,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": 763797
+                                    },
+                                    {
+                                        "startLineNumber": 23,
+                                        "endLineNumber": 25,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": 346017
+                                    },
+                                    {
+                                        "startLineNumber": 44,
+                                        "endLineNumber": 46,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": -670185
+                                    },
+                                    {
+                                        "startLineNumber": 64,
+                                        "endLineNumber": 66,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": 830951
+                                    }
+                                ],
+                                "lineCount": 66,
+                                "provider": "syntax",
+                                "foldedImports": false
+                            },
+                            "editor.contrib.wordHighlighter": false
+                        }
+                    }
+                },
+                "width": 832.0245942717954,
+                "height": 450,
+                "spacing": 0
+            },
+            {
+                "widget": {
+                    "constructionOptions": {
+                        "factoryId": "code-editor-opener",
+                        "options": {
+                            "kind": "navigatable",
+                            "uri": "archive\\src\\single_document_chat\\retrieval.py",
+                            "floatAreaId": "d9c0ba68-e176-4a58-a913-211877a62b20"
+                        }
+                    },
+                    "innerWidgetState": {
+                        "cursorState": [
+                            {
+                                "inSelectionMode": true,
+                                "selectionStart": {
+                                    "lineNumber": 32,
+                                    "column": 14
+                                },
+                                "position": {
+                                    "lineNumber": 30,
+                                    "column": 13
+                                }
+                            }
+                        ],
+                        "viewState": {
+                            "scrollLeft": 0,
+                            "firstPosition": {
+                                "lineNumber": 48,
+                                "column": 1
+                            },
+                            "firstPositionDeltaTop": -7
+                        },
+                        "contributionsState": {
+                            "editor.contrib.folding": {
+                                "collapsedRegions": [
+                                    {
+                                        "startLineNumber": 57,
+                                        "endLineNumber": 59,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": 384814
+                                    },
+                                    {
+                                        "startLineNumber": 61,
+                                        "endLineNumber": 73,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": -261020
+                                    },
+                                    {
+                                        "startLineNumber": 63,
+                                        "endLineNumber": 64,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": 202953
+                                    },
+                                    {
+                                        "startLineNumber": 66,
+                                        "endLineNumber": 68,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": -598984
+                                    },
+                                    {
+                                        "startLineNumber": 71,
+                                        "endLineNumber": 73,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": 632971
+                                    },
+                                    {
+                                        "startLineNumber": 75,
+                                        "endLineNumber": 87,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": 508782
+                                    },
+                                    {
+                                        "startLineNumber": 76,
+                                        "endLineNumber": 83,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": 987709
+                                    },
+                                    {
+                                        "startLineNumber": 78,
+                                        "endLineNumber": 79,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": 734761
+                                    },
+                                    {
+                                        "startLineNumber": 85,
+                                        "endLineNumber": 87,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": -330492
+                                    },
+                                    {
+                                        "startLineNumber": 103,
+                                        "endLineNumber": 105,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": -937440
+                                    }
+                                ],
+                                "lineCount": 106,
+                                "provider": "syntax",
+                                "foldedImports": false
+                            },
+                            "editor.contrib.wordHighlighter": false
+                        }
+                    }
+                },
+                "width": 832.0245942717954,
+                "height": 450,
+                "spacing": 0
+            },
+            {
+                "widget": {
+                    "constructionOptions": {
+                        "factoryId": "code-editor-opener",
+                        "options": {
+                            "kind": "navigatable",
+                            "uri": "utils\\model_loader.py",
+                            "floatAreaId": "d9c0ba68-e176-4a58-a913-211877a62b20"
+                        }
+                    },
+                    "innerWidgetState": {
+                        "cursorState": [
+                            {
+                                "inSelectionMode": false,
+                                "selectionStart": {
+                                    "lineNumber": 24,
+                                    "column": 25
+                                },
+                                "position": {
+                                    "lineNumber": 24,
+                                    "column": 25
+                                }
+                            }
+                        ],
+                        "viewState": {
+                            "scrollLeft": 0,
+                            "firstPosition": {
+                                "lineNumber": 69,
+                                "column": 1
+                            },
+                            "firstPositionDeltaTop": -3
+                        },
+                        "contributionsState": {
+                            "editor.contrib.folding": {
+                                "collapsedRegions": [
+                                    {
+                                        "startLineNumber": 14,
+                                        "endLineNumber": 19,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": -519703
+                                    },
+                                    {
+                                        "startLineNumber": 16,
+                                        "endLineNumber": 18,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": 230254
+                                    },
+                                    {
+                                        "startLineNumber": 101,
+                                        "endLineNumber": 121,
+                                        "isCollapsed": true,
+                                        "source": 0,
+                                        "checksum": -644137
+                                    }
+                                ],
+                                "lineCount": 121,
+                                "provider": "syntax",
+                                "foldedImports": false
+                            },
+                            "editor.contrib.wordHighlighter": false
+                        }
+                    }
+                },
+                "width": 832.0245942717954,
+                "height": 450,
+                "spacing": 0
+            },
+            {
+                "widget": {
+                    "constructionOptions": {
+                        "factoryId": "code-editor-opener",
+                        "options": {
+                            "kind": "navigatable",
+                            "uri": "utils\\config_loader.py",
+                            "floatAreaId": "d9c0ba68-e176-4a58-a913-211877a62b20"
+                        }
+                    },
+                    "innerWidgetState": {
+                        "cursorState": [
+                            {
+                                "inSelectionMode": false,
+                                "selectionStart": {
+                                    "lineNumber": 1,
+                                    "column": 1
+                                },
+                                "position": {
+                                    "lineNumber": 1,
+                                    "column": 1
+                                }
+                            }
+                        ],
+                        "viewState": {
+                            "scrollLeft": 0,
+                            "firstPosition": {
+                                "lineNumber": 1,
+                                "column": 1
+                            },
+                            "firstPositionDeltaTop": 0
+                        },
+                        "contributionsState": {
+                            "editor.contrib.folding": {
+                                "lineCount": 8,
+                                "provider": "syntax",
+                                "foldedImports": false
+                            },
+                            "editor.contrib.wordHighlighter": false
+                        }
+                    }
+                },
+                "width": 832.0245942717954,
+                "height": 450,
+                "spacing": 0
+            },
+            {
+                "widget": {
+                    "constructionOptions": {
+                        "factoryId": "code-editor-opener",
+                        "options": {
+                            "kind": "navigatable",
+                            "uri": "config\\config.yaml",
+                            "floatAreaId": "d9c0ba68-e176-4a58-a913-211877a62b20"
+                        }
+                    },
+                    "innerWidgetState": {
+                        "cursorState": [
+                            {
+                                "inSelectionMode": false,
+                                "selectionStart": {
+                                    "lineNumber": 1,
+                                    "column": 1
+                                },
+                                "position": {
+                                    "lineNumber": 1,
+                                    "column": 1
+                                }
+                            }
+                        ],
+                        "viewState": {
+                            "scrollLeft": 0,
+                            "firstPosition": {
+                                "lineNumber": 3,
+                                "column": 1
+                            },
+                            "firstPositionDeltaTop": -12
+                        },
+                        "contributionsState": {
+                            "editor.contrib.folding": {
+                                "lineCount": 23,
+                                "provider": "syntax",
+                                "foldedImports": false
+                            },
+                            "editor.contrib.wordHighlighter": false
+                        }
+                    }
+                },
+                "width": 832.0245942717954,
+                "height": 450,
+                "spacing": 0
+            },
+            {
+                "widget": {
+                    "constructionOptions": {
+                        "factoryId": "code-editor-opener",
+                        "options": {
+                            "kind": "navigatable",
+                            "uri": "model\\models.py",
+                            "floatAreaId": "d9c0ba68-e176-4a58-a913-211877a62b20"
+                        }
+                    },
+                    "innerWidgetState": {
+                        "cursorState": [
+                            {
+                                "inSelectionMode": false,
+                                "selectionStart": {
+                                    "lineNumber": 1,
+                                    "column": 1
+                                },
+                                "position": {
+                                    "lineNumber": 1,
+                                    "column": 1
+                                }
+                            }
+                        ],
+                        "viewState": {
+                            "scrollLeft": 0,
+                            "firstPosition": {
+                                "lineNumber": 6,
+                                "column": 1
+                            },
+                            "firstPositionDeltaTop": -5
+                        },
+                        "contributionsState": {
+                            "editor.contrib.folding": {
+                                "lineCount": 25,
+                                "provider": "syntax",
+                                "foldedImports": false
+                            },
+                            "editor.contrib.wordHighlighter": false
+                        }
+                    }
+                },
+                "width": 832.0245942717954,
+                "height": 450,
+                "spacing": 0
+            },
+            {
+                "widget": {
+                    "constructionOptions": {
+                        "factoryId": "code-editor-opener",
+                        "options": {
+                            "kind": "navigatable",
+                            "uri": "prompt\\prompt_library.py",
+                            "floatAreaId": "d9c0ba68-e176-4a58-a913-211877a62b20"
+                        }
+                    },
+                    "innerWidgetState": {
+                        "cursorState": [
+                            {
+                                "inSelectionMode": false,
+                                "selectionStart": {
+                                    "lineNumber": 1,
+                                    "column": 1
+                                },
+                                "position": {
+                                    "lineNumber": 1,
+                                    "column": 1
+                                }
+                            }
+                        ],
+                        "viewState": {
+                            "scrollLeft": 0,
+                            "firstPosition": {
+                                "lineNumber": 38,
+                                "column": 1
+                            },
+                            "firstPositionDeltaTop": -14
+                        },
+                        "contributionsState": {
+                            "editor.contrib.folding": {
+                                "lineCount": 61,
+                                "provider": "syntax",
+                                "foldedImports": false
+                            },
+                            "editor.contrib.wordHighlighter": false
+                        }
+                    }
+                },
+                "width": 832.0245942717954,
+                "height": 450,
+                "spacing": 0
+            }
+        ]
+    ],
+    "_widths": [
+        832.0245942717954
+    ],
+    "_modelData": {
+        "connections": [
+            {
+                "startWord": {
+                    "uri": "test.py",
+                    "word": "SingleDocIngestor",
+                    "lineNumber": 126,
+                    "startColumn": 30,
+                    "endLineNumber": 126,
+                    "endColumn": 47,
+                    "x": 316.6000008998677,
+                    "y": 168.00000765568757,
+                    "width": 131,
+                    "height": 19,
+                    "hide": false
+                },
+                "endWord": {
+                    "uri": "archive\\src\\single_document_chat\\data_ingestion.py",
+                    "lineNumber": 13,
+                    "startColumn": 7,
+                    "endLineNumber": 13,
+                    "endColumn": 24,
+                    "word": "SingleDocIngestor",
+                    "x": 93.60000089986772,
+                    "y": 568.0000197234042,
+                    "hide": true,
+                    "height": 1,
+                    "width": 1
+                },
+                "id": "b91b1f56-6326-4803-b1cb-9ca52a3add06",
+                "startAnchor": {
+                    "x": 375.1025586605919,
+                    "y": 187.00000765568757
+                },
+                "endAnchor": {
+                    "x": 94.4682873335138,
+                    "y": 568.0000197234042
+                },
+                "startControl": {
+                    "x": 375.1025586605919,
+                    "y": 212.76510685373643
+                },
+                "endControl": {
+                    "x": 94.4682873335138,
+                    "y": 532.573008326087
+                },
+                "arrow": {
+                    "angle": 1.5707963267948966,
+                    "x": 94.4682873335138,
+                    "y": 556.0000197234042
+                }
+            },
+            {
+                "startWord": {
+                    "uri": "test.py",
+                    "word": "ConversationalRAG",
+                    "lineNumber": 131,
+                    "startColumn": 17,
+                    "endLineNumber": 131,
+                    "endColumn": 34,
+                    "x": 216.60000089986772,
+                    "y": 263.00000765568757,
+                    "width": 131,
+                    "height": 19,
+                    "hide": false
+                },
+                "endWord": {
+                    "uri": "archive\\src\\single_document_chat\\retrieval.py",
+                    "lineNumber": 19,
+                    "startColumn": 7,
+                    "endLineNumber": 19,
+                    "endColumn": 24,
+                    "word": "ConversationalRAG",
+                    "x": 93.60000089986772,
+                    "y": 1074.000045420101,
+                    "hide": true,
+                    "height": 1,
+                    "width": 1
+                },
+                "id": "6ff306ab-1157-4cc9-aeaa-bc0895964045",
+                "startAnchor": {
+                    "x": 279.8730683363999,
+                    "y": 282.00000765568757
+                },
+                "endAnchor": {
+                    "x": 94.21720787689236,
+                    "y": 1074.000045420101
+                },
+                "startControl": {
+                    "x": 279.8730683363999,
+                    "y": 313.15545993924945
+                },
+                "endControl": {
+                    "x": 94.21720787689236,
+                    "y": 1031.1612985302036
+                },
+                "arrow": {
+                    "angle": 1.5707963267948966,
+                    "x": 94.21720787689236,
+                    "y": 1062.000045420101
+                }
+            },
+            {
+                "startWord": {
+                    "uri": "archive\\src\\single_document_chat\\retrieval.py",
+                    "word": "ModelLoader",
+                    "lineNumber": 54,
+                    "startColumn": 19,
+                    "endLineNumber": 54,
+                    "endColumn": 30,
+                    "x": 232.60000089986772,
+                    "y": 1181.000045420101,
+                    "width": 84,
+                    "height": 19,
+                    "hide": false
+                },
+                "endWord": {
+                    "uri": "utils\\model_loader.py",
+                    "lineNumber": 14,
+                    "startColumn": 7,
+                    "endLineNumber": 14,
+                    "endColumn": 18,
+                    "word": "ModelLoader",
+                    "x": 93.60000089986772,
+                    "y": 1580.0000347728505,
+                    "hide": true,
+                    "height": 1,
+                    "width": 1
+                },
+                "id": "a3d71f3d-311f-4659-bf1a-d5bdd28907bd",
+                "startAnchor": {
+                    "x": 270.20320590803755,
+                    "y": 1200.000045420101
+                },
+                "endAnchor": {
+                    "x": 94.33141116259561,
+                    "y": 1580.0000347728505
+                },
+                "startControl": {
+                    "x": 270.20320590803755,
+                    "y": 1229.0405632658285
+                },
+                "endControl": {
+                    "x": 94.33141116259561,
+                    "y": 1540.0693227349755
+                },
+                "arrow": {
+                    "angle": 1.5707963267948966,
+                    "x": 94.33141116259561,
+                    "y": 1568.0000347728505
+                }
+            },
+            {
+                "startWord": {
+                    "uri": "utils\\model_loader.py",
+                    "word": "load_config",
+                    "lineNumber": 24,
+                    "startColumn": 21,
+                    "endLineNumber": 24,
+                    "endColumn": 32,
+                    "x": 93.60000089986772,
+                    "y": 1580.0000347728505,
+                    "width": 1,
+                    "height": 1,
+                    "hide": true
+                },
+                "endWord": {
+                    "uri": "utils\\config_loader.py",
+                    "lineNumber": 4,
+                    "startColumn": 5,
+                    "endLineNumber": 4,
+                    "endColumn": 16,
+                    "word": "load_config",
+                    "x": 124.60000089986772,
+                    "y": 2143.0000422975736,
+                    "hide": false,
+                    "height": 19,
+                    "width": 84
+                },
+                "id": "35230b50-f063-4695-88f7-7a976aea8ecc",
+                "startAnchor": {
+                    "x": 94.16337502490815,
+                    "y": 1581.0000347728505
+                },
+                "endAnchor": {
+                    "x": 165.3958925240995,
+                    "y": 2143.0000422975736
+                },
+                "startControl": {
+                    "x": 94.16337502490815,
+                    "y": 1612.7460490393928
+                },
+                "endControl": {
+                    "x": 165.3958925240995,
+                    "y": 2099.3492726810778
+                },
+                "arrow": {
+                    "angle": 1.5707963267948966,
+                    "x": 165.3958925240995,
+                    "y": 2131.0000422975736
+                }
+            }
+        ],
+        "annotations": [],
+        "highlights": []
+    }
+}
